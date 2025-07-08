@@ -1,0 +1,22 @@
+# Build and install folders
+build/
+install/
+log/
+.colcon/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ROS2 logs
+*.log
+*.db
+
+# Dataset folders
+datasets/
+
+#codes folders
+codes/ 
+
+# VSCode settings (optional)
+.vscode/
